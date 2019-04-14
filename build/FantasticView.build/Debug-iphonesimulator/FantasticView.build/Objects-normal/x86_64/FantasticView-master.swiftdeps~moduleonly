@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "7d1c1956dbc1caa46a291b4682a0c374"
+build_time: [1555262171, 969685000]
+inputs:
+  "/Users/vilasmane/Desktop/FantasticView/FantasticView/ViewController.swift": [1555262140, 0]
+  "/Users/vilasmane/Desktop/FantasticView/FantasticView/AppDelegate.swift": [1555262140, 0]
+  "/Users/vilasmane/Desktop/FantasticView/FantasticView/FantasticView.swift": [9223372036, 854775807]
